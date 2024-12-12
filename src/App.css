@@ -1,0 +1,14 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+#delete-btn {
+  color: darkred;
+  font-size: 16px;
+  padding: 0;
+  background-color: #242424;
+  margin-left: 2rem;
+}
